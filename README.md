@@ -23,4 +23,9 @@
 
 ### Current Project
 
+---
+### Changed Portion
+-Hello, CSC223 is Hard!
+
+
 > **BRCC Food Truck Menus** - Making a website to show food trucks at Blue Ridge Community College
