@@ -1,3 +1,5 @@
+![A GitHub profile picture](https://i.sstatic.net/frlIf.png)
+
 # Github Learning
 
 ### Hobbies:
